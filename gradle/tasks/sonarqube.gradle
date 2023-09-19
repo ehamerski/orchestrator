@@ -1,0 +1,8 @@
+sonarqube {
+    properties {
+        property "sonar.host.url", "http://localhost:9000"
+        property "sonar.token", "sqp_16e1ecf16c9890c88aaeb1883c313f21bcda2557"
+        property "sonar.projectName", "Camel Master Route Example"
+        property "sonar.projectKey", "camel-master-route-example"
+    }
+}

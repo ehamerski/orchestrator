@@ -1,4 +1,4 @@
-package com.example.spring.boot.camel.orchestrator;
+package com.example.spring.boot.camel.orchestrator.controller;
 
 import java.util.List;
 import java.util.stream.Collectors;
