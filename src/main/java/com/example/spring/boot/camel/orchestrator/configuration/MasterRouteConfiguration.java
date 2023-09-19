@@ -1,7 +1,6 @@
 package com.example.spring.boot.camel.orchestrator.configuration;
 
 import org.apache.camel.builder.RouteBuilder;
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
